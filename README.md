@@ -4,7 +4,7 @@
 ---
 
 ## Objective of the Project
-The main goal of this project is to predict stock prices using historical data. It involves loading, cleaning, and analyzing stock data, followed by the application of machine learning models for price prediction.
+The main goal of this project is to predict stock prices using historical data. It involves loading, cleaning, and analyzing stock data, then applying machine learning models for price prediction.
 
 ### What the Project Does
 - **Data Loading and Inspection:** Import stock data and understand its structure.
@@ -16,8 +16,8 @@ The main goal of this project is to predict stock prices using historical data. 
 - **Model Evaluation:** Assess model performance.
 - **Prediction:** Utilize the model for stock price predictions.
 
-### Why the Project is Useful
-This project provides insights into stock market behavior and assists in making informed investment decisions. It's beneficial for financial analysts, investors, and anyone interested in stock market dynamics.
+### Why the Project is Useful?
+This project provides insights into stock market behaviour and assists in making informed investment decisions. It benefits financial analysts, investors, and anyone interested in stock market dynamics.
 
 ## Key Steps Executed
 1. **Data Preprocessing:** Preparation and cleaning of the dataset.
@@ -38,12 +38,10 @@ To start using this project:
 3. **Run the Notebooks:** Execute the Jupyter notebooks to see the analysis and model training.
 4. **Experiment:** Modify the code or parameters to test different scenarios or stocks.
 
-### How to Contribute
+### How to Contribute?
 Contributions to improve the project are welcome. You can contribute by:
 - Suggesting new features or improvements.
 - Reporting bugs or issues.
 - Adding more datasets for a comprehensive analysis.
 
 ---
-
-This format should provide a clear and detailed guide for anyone interested in your project, outlining its purpose, functionality, and how to get involved.
